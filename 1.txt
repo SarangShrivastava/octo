@@ -1,0 +1,10 @@
+git inti
+git add <filename>
+git commit -m "mssg"
+
+
+
+git add remote origin <remote url>
+git remote -v
+git push -u origin master
+git push
